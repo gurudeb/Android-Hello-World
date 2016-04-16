@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml:2:5-63
+	android:versionCode
+		INJECTED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml:4:3-14:17
+	android:label
+		ADDED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml:5:7-39
+activity#com.sqisland.android.hello.MainActivity
+ADDED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml:6:5-13:16
+	android:label
+		ADDED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml:8:9-41
+	android:name
+		ADDED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml:7:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml:9:7-12:23
+action#android.intent.action.MAIN
+ADDED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml:10:9-60
+	android:name
+		ADDED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml:10:17-58
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml:11:9-68
+	android:name
+		ADDED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml:11:19-66
+uses-sdk
+INJECTED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidLab\Android-Hello-World\app\src\main\AndroidManifest.xml
